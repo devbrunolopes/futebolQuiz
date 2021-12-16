@@ -20,5 +20,5 @@ O QUE APRENDI NESSE PROJETO:
 <p>Print da tela do app:</p>
 <img src="https://user-images.githubusercontent.com/93380504/145680720-7ff5ff16-c59b-4c0e-97c8-89fc8d9f9e8b.png" width="250px" />
 <img src="https://user-images.githubusercontent.com/93380504/145680829-8b646dc5-eeb3-4acd-bcff-abd562802479.png" width="250px" />
-<img src="https://user-images.githubusercontent.com/93380504/145680721-ed00084b-f42d-48ac-a7f5-d47cd84d0ad0.png" width="400px" height="250px" />
+<img src="https://user-images.githubusercontent.com/93380504/145680721-ed00084b-f42d-48ac-a7f5-d47cd84d0ad0.png" width="400px" />
 </div>
